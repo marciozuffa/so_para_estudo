@@ -1,0 +1,26 @@
+Qual o comando usado para visualizar a lista de alterações em stash
+git stash list
+
+O que as flags --oneline e --graph fazem com o git log ?
+modificam
+
+O que é a tag HEAD aponta ?
+um apontamento
+
+Complete a frase: Uma branch nova é
+copia
+
+Qual comando modifica o nome de uma branch localmente ?
+git branch -m nome-antigo nome-novo
+
+O que é uma branch ?
+....segura
+
+Para que serve o stash ?
+para salvar
+
+Qual o comando usado para criar uma branch e se mover para ela ao mesmo tempo ?
+git checkout -b nomeBranch
+
+Para que o git reset é usado ?
+gera um commit com as alterações inversas
