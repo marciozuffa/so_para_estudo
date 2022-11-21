@@ -24,3 +24,9 @@ git checkout -b nomeBranch
 
 Para que o git reset é usado ?
 gera um commit com as alterações inversas
+
+
+
+**
+Permissões
+Setting --- Collaborators -- add people
